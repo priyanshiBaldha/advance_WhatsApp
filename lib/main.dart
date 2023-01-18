@@ -166,7 +166,7 @@ class _MyAppState extends State<MyApp> with SingleTickerProviderStateMixin {
                             label: "Chats"),
                         BottomNavigationBarItem(
                             icon: Icon(
-                              CupertinoIcons.arrow_down_left,
+                              CupertinoIcons.circle,
                             ),
                             label: "Status"),
                         BottomNavigationBarItem(
